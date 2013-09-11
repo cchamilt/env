@@ -32,4 +32,4 @@ environments required in the user_configuration.json and run the setup.sh.
 TODO
   testing, staging, production environment variations (setup mongodb/postgresql
 accurately).  Eclipse configurations and integration.  Python. Support OSX, 
-android, windows/Visual Studio environments.Add xpra, automatic openvpn vpns.
+android, windows/Visual Studio environments.Add xpra, automatic openvpn vpns. Setup for both dev VM creation and dev system for writing.

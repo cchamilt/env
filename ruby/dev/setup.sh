@@ -1,3 +1,6 @@
+sudo apt-get install -y ruby-dev #needed to complete ruby as ubuntu is stupid
+sudo apt-get install -y libxslt-dev #needed for nokogiri to build
+
 #rvm install and force 2.0.0
 gem install rvm
 #set version to 2.0
